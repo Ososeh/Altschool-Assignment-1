@@ -11,3 +11,10 @@ line-height: 2.5;
 .p{
 line-height: 1.8;
 }
+.profile-picture{
+  width: 249.66px;
+  height: 270.66px;
+  flex-shrink: 0;
+  border-radius: 50%;
+  
+}
